@@ -7,7 +7,7 @@ kB = 1.38e-23;  % Constanta lui Boltzmann.
 u = 1.66e-27;   % Unitatea atomica de masa. 
 T = 300;        % Temperatura.
 vmax = 6e3;     % Viteza maxima in reprezentarile grafice.
-m0 = 28*u;       % Masa moleculei.
+m0 = 2*u;       % Masa moleculei.
 
 % Parametrii sistemului.
 numParticles = 10;  % Numarul de particule.
